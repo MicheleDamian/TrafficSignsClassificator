@@ -1,7 +1,7 @@
 Traffic Sign Classificator
 ==========================
 
-[Preview](./preview.jpeg)
+![Preview](./preview.jpeg)
 
 This is an Android app for European traffic signs detection and recognition. It has been developed and tested on Android 2.3 and it runs on top of OpenCV.
 
