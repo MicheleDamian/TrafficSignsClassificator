@@ -1,5 +1,5 @@
 Traffic Sign Classificator
-==========================
+---
 
 ![Preview](./preview.jpeg)
 
